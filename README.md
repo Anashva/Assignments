@@ -1,2 +1,2 @@
 # Assignments
-This is assignment of Python Machine Learning Project
+This is assignment of Python Machine Learning 

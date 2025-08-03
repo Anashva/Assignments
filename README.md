@@ -1,2 +1,2 @@
-# Assignments
-Assignment of Python Machine Learning 
+#  Assignments
+All Assignment of Python Machine Learning 
